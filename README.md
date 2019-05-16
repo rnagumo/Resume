@@ -41,4 +41,4 @@ For example, Bayesian structural time series models.
 
 ### Causal inference, Counterfactual ML, Bandit problem
 
-## Statistical learning theory
+### Statistical learning theory
