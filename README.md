@@ -1,6 +1,6 @@
 # AboutMe
 
-This is my Resume, updated on 16/May/2019
+This is my resume (updated on 16/May/2019)
 
 # 1. Work
 
