@@ -4,7 +4,7 @@ This is my resume (updated on 16/May/2019)
 
 # 1. Work
 
-## Quantum optics, Near-field optics, and Spin mechanics (M. degree)
+## Quantum optics, Near-field optics, and Spin mechanics (M. Eng. degree)
 
 04/2015 - 03/2017   
 I got Master degree in the field of Quantum optics, Near-field optics, and Spin mechanics.
