@@ -13,7 +13,9 @@ I got Master degree in the field of Quantum optics, Near-field optics, and Spin 
 ## Acoustic and linguistic analysis for the prediction of Alzheimer's disease.
 
 04/2017 - 03/2018  
-I joined the R&D team in the industial company. Our team aims to develop the machine learning systems to predict Alzheimer's disease from elderly person's voice. I'm in charge of machine learning engineering of vocal signal processing and natural language processings. Acoustic signal processing includes the vocal utterance prediction, calculation of MFCC, and feature engineering. In the field of natural language processing, I'm engaged in feature engineering including Bag-of-Words of n-gram, Tf-idf, perplexity, word2vec, and Attention mechanism.
+I joined the R&D team in the industial company. Our team aims to develop the machine learning systems to predict Alzheimer's disease from elderly person's voice. I'm in charge of machine learning engineering of vocal signal processing and natural language processings. 
+
+Acoustic signal processing includes the vocal utterance prediction, calculation of MFCC, and feature engineering. In the field of natural language processing, I'm engaged in feature engineering including Bag-of-Words of n-gram, Tf-idf, perplexity, word2vec, and Attention mechanism. I also submited the report including document classification using NMF.
 
 ## Time-series analysis in the industrial field.
 
