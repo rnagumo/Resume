@@ -1,6 +1,6 @@
 # Resume
 
-This is my resume (updated on 16/May/2019)
+updated on 21/May/2019
 
 # 1. Work
 
