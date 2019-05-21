@@ -1,4 +1,4 @@
-# AboutMe
+# Resume
 
 This is my resume (updated on 16/May/2019)
 
@@ -21,6 +21,7 @@ Acoustic signal processing includes the vocal utterance prediction, calculation 
 
 04/2018 - now  
 I'm in the R&D team which provides the time-series analysis to the industrial field. I created the time-series prediction model with LightGBM and Python package running in the server. 
+I used LightGBM for time-series prediction.
 
 
 # 2. Interests
