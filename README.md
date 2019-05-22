@@ -30,11 +30,13 @@ The followings are my interests.
 
 ### Bayesian Statistics
 
-It is the attraction of Bayesian statistics that can represent the uncertainty in data.
+It is the attraction of Bayesian statistics that can represent the uncertainty in data.  
+ex) https://github.com/rnagumo/BayesBook
 
 ### Stochastic process, Bayesian non-parametrics
 
-I'm especially interested in Gaussian process.
+I'm especially interested in Gaussian process.  
+ex) https://github.com/rnagumo/GaussianProcess
 
 ### Time-series analysis
 
@@ -43,5 +45,3 @@ For example, Bayesian structural time series models.
 ### Anomaly detection
 
 ### Causal inference, Counterfactual ML, Bandit problem
-
-### Statistical learning theory
