@@ -1,6 +1,6 @@
 # Resume
 
-updated on 21/May/2019
+updated on 29/May/2019
 
 # 1. Work
 
@@ -45,3 +45,12 @@ For example, Bayesian structural time series models.
 ### Anomaly detection
 
 ### Causal inference, Counterfactual ML, Bandit problem
+
+
+# 3. SNS
+
+### Hatena Blog
+
+In Japanese, not frequently updated.
+
+http://rio-cloud.hatenablog.com/
