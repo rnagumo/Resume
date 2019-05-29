@@ -26,7 +26,7 @@ I used LightGBM for time-series prediction.
 
 # 2. Interests
 
-The followings are my interests.
+My interests are Machine Learning and Statistics
 
 ### Bayesian Statistics
 
