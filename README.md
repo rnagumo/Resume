@@ -21,7 +21,6 @@ Acoustic signal processing includes the vocal utterance prediction, calculation 
 
 04/2018 - now  
 I'm in the R&D team which provides the time-series analysis to the industrial field. I created the time-series prediction model with LightGBM and Python package running in the server. 
-I used LightGBM for time-series prediction.
 
 
 # 2. Interests
@@ -31,23 +30,20 @@ My interests are Machine Learning and Statistics
 ### Bayesian Statistics
 
 It is the attraction of Bayesian statistics that can represent the uncertainty in data.  
-ex) https://github.com/rnagumo/BayesBook
+ex) https://github.com/rnagumo/bayes_ml
 
-### Stochastic process, Bayesian non-parametrics
+### Bayesian non-parametrics
 
 I'm especially interested in Gaussian process.  
 ex) https://github.com/rnagumo/GaussianProcess
 
 ### Time-series analysis
 
-For example, Bayesian structural time series models.
-
-### Anomaly detection
-
-### Causal inference, Counterfactual ML, Bandit problem
+For example, Bayesian structural time series models.  
+https://github.com/rnagumo/tfp_sample
 
 
-# 3. SNS
+# 3. Other Activities
 
 ### Hatena Blog
 
