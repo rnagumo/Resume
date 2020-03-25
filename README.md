@@ -1,6 +1,6 @@
 # Resume
 
-updated on 29/May/2019
+updated on 25/Mar/2020
 
 # 1. Work
 
@@ -8,7 +8,6 @@ updated on 29/May/2019
 
 04/2015 - 03/2017   
 I got Master degree in the field of Quantum optics, Near-field optics, and Spin mechanics.
-
 
 ## Acoustic and linguistic analysis for the prediction of Alzheimer's disease.
 
@@ -22,20 +21,19 @@ Acoustic signal processing includes the vocal utterance prediction, calculation 
 04/2018 - now  
 I'm in the R&D team which provides the time-series analysis to the industrial field. I created the time-series prediction model with LightGBM and Python package running in the server. 
 
-
 # 2. Interests
 
 My interests are Machine Learning and Statistics.
 
-### Bayesian Statistics
+## Bayesian Statistics
 
 * Deep Generative Model (ex. VAE)
 
-### Time-series analysis
+## Time-series analysis
 
 * Bayesian Structured Time Series models (State-Space models)
 * Deep State-Space models (ex. Variational RNN, Deep Markov Model)
 
-### Bayesian non-parametrics
+## Bayesian non-parametrics
 
 * Gaussian Process
