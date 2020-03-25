@@ -25,28 +25,17 @@ I'm in the R&D team which provides the time-series analysis to the industrial fi
 
 # 2. Interests
 
-My interests are Machine Learning and Statistics
+My interests are Machine Learning and Statistics.
 
 ### Bayesian Statistics
 
-It is the attraction of Bayesian statistics that can represent the uncertainty in data.  
-ex) https://github.com/rnagumo/bayes_ml
-
-### Bayesian non-parametrics
-
-I'm especially interested in Gaussian process.  
-ex) https://github.com/rnagumo/GaussianProcess
+* Deep Generative Model (ex. VAE)
 
 ### Time-series analysis
 
-For example, Bayesian structural time series models.  
-https://github.com/rnagumo/tfp_sample
+* Bayesian Structured Time Series models (State-Space models)
+* Deep State-Space models (ex. Variational RNN, Deep Markov Model)
 
+### Bayesian non-parametrics
 
-# 3. Other Activities
-
-### Hatena Blog
-
-In Japanese, not frequently updated.
-
-http://rio-cloud.hatenablog.com/
+* Gaussian Process
