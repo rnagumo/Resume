@@ -4,9 +4,9 @@ updated on 09/May/2020
 
 # 1. Experience
 
-## Machine Learning Engineer in Japanese industrial company
+## Machine Learning Engineer
 
-04/2017 - now
+04/2017 - now, Japanese industrial company
 
 ### Acoustic and linguistic analysis for the prediction of Alzheimer's disease.
 
@@ -22,14 +22,16 @@ I also coded automatically trained ML system in the server. In this work, I expe
 
 # 2. Education
 
-## M. Eng., Department of Electrical Engineering and Information Systems
+## M. Eng.
 
 04/2015 - 03/2017  
-Research in the field of Quantum optics, Near-field optics, and Spin mechanics.
+Department of Electrical Engineering and Information Systems  
+Research in Quantum optics, Near-field optics, and Spin mechanics.
 
-## B. Eng., Department of Electrical and Electronic Engineering
+## B. Eng.
 
 04/2011 - 03/2015  
+Department of Electrical and Electronic Engineering
 
 # 3. Interests
 
