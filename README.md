@@ -67,11 +67,11 @@ K. Abe, Y. Matsumura, T. Nishiyama, H. Nakajima, R. Nagumo, and K. Sasabe, "Earl
 
 H28年度優秀修士論文賞. 修士論文題目：近接場光エッチングを用いたナノダイヤモンド中のNVセンターのスピンコヒーレンス時間向上 [link](https://lux.ee.tut.ac.jp/congratulations-5/)
 
-優秀発表賞、南雲亮佑、Felix Brandenburg、Fedor Jelezko、岩崎孝之、波多野睦子、八井 崇、ドレスト光子フォノンエッチングを利用したダイヤモンド微粒子中の窒素―空孔中心の特性向上、第一回Core-to-Core学生研究講演会 [link](https://lux.ee.tut.ac.jp/congratulations-2/)
+優秀発表賞. 南雲亮佑、Felix Brandenburg、Fedor Jelezko、岩崎孝之、波多野睦子、八井 崇、ドレスト光子フォノンエッチングを利用したダイヤモンド微粒子中の窒素―空孔中心の特性向上、第一回Core-to-Core学生研究講演会 [link](https://lux.ee.tut.ac.jp/congratulations-2/)
 
 IAC Presentation Award. R. Nagumo, F. Brandenburg, T. Yatsui, A. Ermakova, and F. Jelezko, “Spectral control of nanodiamond by dressed photon–phonon etching,” The 10th Asia-Pacific Conference on Near-field Optics, Hakodate, July 7-10, 2015, paper ID: Contr 5-1 [link](https://lux.ee.tut.ac.jp/congratulations/)
 
-南雲亮佑、八井 崇、「ドレスト光子エッチングを利用したナノダイヤモンドの発光制御」、第7回 ナノフォトニクス学生研究講演会 [link](https://lux.ee.tut.ac.jp/%e5%8d%97%e9%9b%b2%e4%ba%ae%e4%bd%91%e5%90%9b%ef%bc%88b4%ef%bc%89%e3%81%8c%e5%84%aa%e7%a7%80%e7%99%ba%e8%a1%a8%e8%b3%9e%e3%82%92%e5%8f%97%e8%b3%9e%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/)
+優秀発表賞. 南雲亮佑、八井 崇、「ドレスト光子エッチングを利用したナノダイヤモンドの発光制御」、第7回 ナノフォトニクス学生研究講演会 [link](https://lux.ee.tut.ac.jp/%e5%8d%97%e9%9b%b2%e4%ba%ae%e4%bd%91%e5%90%9b%ef%bc%88b4%ef%bc%89%e3%81%8c%e5%84%aa%e7%a7%80%e7%99%ba%e8%a1%a8%e8%b3%9e%e3%82%92%e5%8f%97%e8%b3%9e%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/)
 
 # 5. Other Activities
 
