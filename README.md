@@ -18,7 +18,7 @@ Acoustic signal processing includes the vocal utterance prediction, calculation 
 
 I'm in the R&D team which provides the time-series analysis to the industrial field. I created the time-series prediction model with LightGBM and Python package running in the server.
 
-I also coded automatically trained ML system in the server. In this work, I experienced Azure Functions app.
+I coded automatically trained ML system in the server. In this work, I experienced Azure Functions app.
 
 # 2. Education
 
@@ -51,6 +51,10 @@ My interests are Bayesian Statistics and Machine Learning.
 
 * Gaussian Process [github](https://github.com/rnagumo/GaussianProcess)
 
+## Data science
+
+* Sustainable data science by readability and reproducibility [document](https://github.com/rnagumo/datasci_template/blob/master/readability_reproducibility.md)
+
 # 4. Publications
 
 ## Research Articles
@@ -67,7 +71,7 @@ K. Abe, Y. Matsumura, T. Nishiyama, H. Nakajima, R. Nagumo, and K. Sasabe, "Earl
 
 ## Awards
 
-H28年度優秀修士論文賞. 修士論文題目：近接場光エッチングを用いたナノダイヤモンド中のNVセンターのスピンコヒーレンス時間向上 [link](https://lux.ee.tut.ac.jp/congratulations-5/)
+H28年度優秀修士論文賞（電気系工学専攻）. 修士論文題目：近接場光エッチングを用いたナノダイヤモンド中のNVセンターのスピンコヒーレンス時間向上 [link](https://lux.ee.tut.ac.jp/congratulations-5/)
 
 優秀発表賞. 南雲亮佑、Felix Brandenburg、Fedor Jelezko、岩崎孝之、波多野睦子、八井 崇、ドレスト光子フォノンエッチングを利用したダイヤモンド微粒子中の窒素―空孔中心の特性向上、第一回Core-to-Core学生研究講演会 [link](https://lux.ee.tut.ac.jp/congratulations-2/)
 
