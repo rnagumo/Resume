@@ -6,19 +6,26 @@ updated on 09/May/2020
 
 ## Machine Learning Engineer
 
-04/2017 - now, Japanese industrial company
+04/2017 - now
 
-### Acoustic and linguistic analysis for the prediction of Alzheimer's disease.
+I'm in the R&D team in the Japanese industrial company.
 
-Our team aims to develop the machine learning systems to predict Alzheimer's disease from elderly person's voice. I'm in charge of machine learning engineering of vocal signal processing and natural language processings.
+### Prediction of Alzheimer's disease.
 
-Acoustic signal processing includes the vocal utterance prediction, calculation of MFCC, and feature engineering. In the field of natural language processing, I'm engaged in feature engineering including Bag-of-Words of n-gram, Tf-idf, perplexity, word2vec, and Attention mechanism. I also submited the report including document classification using NMF.
+Our team aims to develop the machine learning systems to predict Alzheimer's disease from elderly person's voice or human activity data.
+
+* Acoustic signal processing including the vocal utterance prediction, calculation of MFCC, and feature engineering. 
+* Natural language processing including feature engineering including Bag-of-Words of n-gram, Tf-idf, perplexity, word2vec.
+* Reporing document classification using NMF.
+* Time-series analysis for the classification of eldery people.
 
 ### Time-series analysis in the industrial field.
 
-I'm in the R&D team which provides the time-series analysis to the industrial field. I created the time-series prediction model with LightGBM and Python package running in the server.
+Data alanysis for the productions.
 
-I coded automatically trained ML system in the server. In this work, I experienced Azure Functions app.
+* Time-series analysis for electrical demand predciton by LightGBM.
+* Mathematical modeling for predicting battery deterioration by SciPy.
+* Automatical training ML system running in Azure Functions.
 
 # 2. Education
 
@@ -65,7 +72,7 @@ F. Brandenburg, R. Nagumo, K. Saichi, K. Tahara, T. Iwasaki, M. Hatano, F. Jelez
 
 R. Nagumo, F. Brandenburg, A. Ermakova, F. Jelezko, and T. Yatsui, “Spectral control of nanodiamond using dressed photon-phonon etching,” [Applied Physics A, Volume 121, Issue 4, December 2015, pp.1335-1339, DOI: 10.1007/s00339-015-9400-0](https://link.springer.com/article/10.1007/s00339-015-9400-0) (invited paper)
 
-## Others
+## Other Articles
 
 K. Abe, Y. Matsumura, T. Nishiyama, H. Nakajima, R. Nagumo, and K. Sasabe, "Early Detection of Elderly People with Mild Cognitive Decline," [Panasonic Technical Journal Vol. 64 No. 2 Nov. 2018 (written in Japanese)](https://www.panasonic.com/jp/corporate/technology-design/ptj/v6402-gaiyo.html#section01_10)
 
