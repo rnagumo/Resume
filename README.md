@@ -1,6 +1,6 @@
 # Resume of R. Nagumo
 
-updated on 09/May/2020
+updated on 23/May/2020
 
 # 1. Experience
 
@@ -91,5 +91,7 @@ IAC Presentation Award. R. Nagumo, F. Brandenburg, T. Yatsui, A. Ermakova, and F
 GitHub. [link](https://github.com/rnagumo)
 
 AtCoder. Highest rank 1207 (Cyan, 水色) [link](https://atcoder.jp/users/riocloud)
+
+PAST (Practical Algorithm Skill Test) by AtCoder. Advanced Class, 2020.05.23 [link](https://past.atcoder.jp/)
 
 Hatena Blog, written in Japanese and not frequently updated. [link](http://rio-cloud.hatenablog.com/)
