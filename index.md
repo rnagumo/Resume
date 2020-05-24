@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Ryosuke Nagumo
-
 I'm Ryosuke Nagumo, Machine Learning Engineer. My interests are Bayesian statistics, time series, and data science.
 
 ## Interests
