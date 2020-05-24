@@ -5,7 +5,7 @@
 layout: home
 ---
 
-I'm Ryosuke Nagumo, Machine Learning Engineer. My interests are Bayesian statistics, time series, and data science.
+I'm Ryosuke Nagumo, Machine Learning Engineer. My interests are Bayesian statistics, time series analysis, and data science.
 
 ## Interests
 
@@ -15,17 +15,15 @@ I'm Ryosuke Nagumo, Machine Learning Engineer. My interests are Bayesian statist
 
   * Deep generative model (ex. VAE) [github](https://github.com/rnagumo/dgmvae)
 
+  * Gaussian process [github](https://github.com/rnagumo/GaussianProcess)
+
+  * Neural process
+
 * **Time-series analysis**
 
   * Bayesian structured time series models [github](https://github.com/rnagumo/tfp_sample)
 
   * Deep state-space models (ex. Variational RNN, Deep markov model) [github](https://github.com/rnagumo/dgmseq)
-
-* **Bayesian non-parametrics**
-
-  * Gaussian process [github](https://github.com/rnagumo/GaussianProcess)
-
-  * Neural process
 
 * **Data science**
 
