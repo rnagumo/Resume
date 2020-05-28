@@ -11,20 +11,16 @@ I'm Ryosuke Nagumo, Machine Learning Engineer. My interests are Bayesian statist
 
 * **Bayesian statistics**
 
-  * Bayesian machine learninng [github](https://github.com/rnagumo/bayes_ml)
+  * Deep generative model (ex. VAE)
+  
+  * Bayesian structured time series models
 
-  * Deep generative model (ex. VAE) [github](https://github.com/rnagumo/dgmvae)
+  * Gaussian process
 
-  * Gaussian process [github](https://github.com/rnagumo/GaussianProcess)
+## Links
 
-  * Neural process
+* [GitHub](https://github.com/rnagumo)
 
-* **Time-series analysis**
+* [AtCoder](https://atcoder.jp/users/riocloud). Highest rank 1207 (Cyan, 水色)
 
-  * Bayesian structured time series models [github](https://github.com/rnagumo/tfp_sample)
-
-  * Deep state-space models (ex. Variational RNN, Deep markov model) [github](https://github.com/rnagumo/dgmseq)
-
-* **Data science**
-
-  * Sustainable data science by readability and reproducibility [document](https://github.com/rnagumo/datasci_template/blob/master/readability_reproducibility.md)
+* [PAST](https://past.atcoder.jp/) (Practical Algorithm Skill Test) by AtCoder. Advanced Class, 2020.05.23

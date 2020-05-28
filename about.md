@@ -65,11 +65,3 @@ Data alanysis for the productions.
 * IAC Presentation Award. **R. Nagumo**, F. Brandenburg, T. Yatsui, A. Ermakova, and F. Jelezko, “Spectral control of nanodiamond by dressed photon–phonon etching,” The 10th Asia-Pacific Conference on Near-field Optics, Hakodate, July 7-10, 2015, paper ID: Contr 5-1 [link](https://lux.ee.tut.ac.jp/congratulations/)
 
 * 優秀発表賞. **南雲亮佑**、八井 崇、「ドレスト光子エッチングを利用したナノダイヤモンドの発光制御」、第7回 ナノフォトニクス学生研究講演会 [link](https://lux.ee.tut.ac.jp/%e5%8d%97%e9%9b%b2%e4%ba%ae%e4%bd%91%e5%90%9b%ef%bc%88b4%ef%bc%89%e3%81%8c%e5%84%aa%e7%a7%80%e7%99%ba%e8%a1%a8%e8%b3%9e%e3%82%92%e5%8f%97%e8%b3%9e%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/)
-
-## Other Activities
-
-* [AtCoder](https://atcoder.jp/users/riocloud). Highest rank 1207 (Cyan, 水色)
-
-* [PAST](https://past.atcoder.jp/) (Practical Algorithm Skill Test) by AtCoder. Advanced Class, 2020.05.23
-
-* [Hatena Blog](http://rio-cloud.hatenablog.com/), written in Japanese and not frequently updated.
