@@ -7,6 +7,8 @@ layout: home
 
 I'm Ryosuke Nagumo, Machine Learning Engineer. My interests are Bayesian statistics, time series analysis, and data science.
 
+I am especially interested in the combination of Bayesian statistics and deep learning. Bayesian statistics can provide the uncertainty of inference, and deep learning can express very flexible functions. Therefore, "Bayesian deep learning" is a candidate to model complex real world with uncertainty.
+
 ## Interests
 
 * **Bayesian statistics**
