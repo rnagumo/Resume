@@ -54,7 +54,9 @@ Data alanysis for the productions.
 
 ### Other Articles
 
-* K. Abe, Y. Matsumura, T. Nishiyama, H. Nakajima, **R. Nagumo**, and K. Sasabe, "Early Detection of Elderly People with Mild Cognitive Decline," [Panasonic Technical Journal Vol. 64 No. 2 Nov. 2018 (written in Japanese)](https://www.panasonic.com/jp/corporate/technology-design/ptj/v6402-gaiyo.html##section01_10)
+* K. Abe, Y. Matsumura, T. Nishiyama, H. Nakajima, **R. Nagumo**, and K. Sasabe, "Early Detection of Elderly People with Mild Cognitive Decline," [Panasonic Technical Journal Vol. 64, No. 2, Nov. 2018 (in Japanese)](https://www.panasonic.com/jp/corporate/technology-design/ptj/v6402-gaiyo.html##section01_10)
+
+* Y. Zhang, **R. Nagumo**, T. Okada, Y. Ogawa, M. Hosokawa, K. Sasabe, "Automatic Detection of Cognitive Impairments through the Acoustic Analysis of Speech," [Panasonic Technical Journal Vol. 66, No.1, May 2020 (in Japanese)](https://www.panasonic.com/jp/corporate/technology-design/ptj/v6601-gaiyo.html#section01_12)
 
 ### Awards
 
