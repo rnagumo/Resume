@@ -6,40 +6,32 @@ permalink: /CV/
 
 ## Work experience
 
-### Machine Learning Engineer
+* **Panasonic Corporation**  
+  Apr. 2017 - now  
 
-Apr. 2017 - now
+  * Machine learning application and research
 
-I'm in the R&D team in the Japanese industrial company.
+    * Research of machine learning to estimate the Alzheimer's disease.
 
-### Prediction of Alzheimer's disease
+    * Acoustic signal processing and natural language processing for feature engineering.
 
-Our team aims to develop the machine learning systems to predict Alzheimer's disease from elderly person's voice or human activity data.
+  * Data analysis and machine learning engineering
 
-* Acoustic signal processing including the vocal utterance prediction, calculation of MFCC, and feature engineering.
-* Natural language processing including feature engineering including Bag-of-Words of n-gram, Tf-idf, perplexity, word2vec.
-* Reporing document classification using NMF.
-* Time-series analysis for the classification of eldery people.
+    * Time-series analysis by LightGBM.
 
-### Time-series analysis in the industrial field
+    * Mathematical modeling for predicting battery deterioration by SciPy.
 
-Data alanysis for the productions.
-
-* Time-series analysis for electrical demand predciton by LightGBM.
-* Mathematical modeling for predicting battery deterioration by SciPy.
-* Automatical training ML system running in Azure Functions.
+    * Development of automatic training ML system running in the cloud.
 
 ## Education
 
-* Apr. 2015 - Mar. 2017  
-  **University of Tokyo**  
-  Department of Electrical Engineering and Information Systems  
+* **University of Tokyo**, Department of Electrical Engineering and Information Systems  
+  Apr. 2015 - Mar. 2017  
   Master of Engineering  
   Research in Quantum optics, Near-field optics, and Spin mechanics.
 
-* Apr. 2011 - Mar. 2015  
-  **University of Tokyo**  
-  Department of Electrical and Electronic Engineering  
+* **University of Tokyo**, Department of Electrical and Electronic Engineering  
+  Apr. 2011 - Mar. 2015  
   Bachelor of Engineering  
 
 ## Publications
