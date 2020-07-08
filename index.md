@@ -5,21 +5,21 @@
 layout: home
 ---
 
-I'm Ryosuke Nagumo, a software engineer.
+# Ryosuke Nagumo, software engineer
 
 ## Interests
 
 * **Machine learning application and engineering**
 
-  * Data science for the real world data.
+  * Data science for real-world data.
 
-  * Development of ML server system.
+  * Development of the ML server system.
 
 * **Bayesian statistics**
 
-  * Deep generative models (ex. VAE, Flow)
+  * Deep generative models (ex. VAE, Flow).
   
-  * Bayesian structured time series models
+  * Bayesian structured time series models.
 
 ## Links
 
