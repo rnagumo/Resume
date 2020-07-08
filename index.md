@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Ryosuke Nagumo, software engineer
+## Ryosuke Nagumo, software engineer
 
 ## Interests
 
