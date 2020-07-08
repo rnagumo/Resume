@@ -28,7 +28,7 @@ permalink: /CV/
 * **University of Tokyo**, Department of Electrical Engineering and Information Systems  
   Apr. 2015 - Mar. 2017  
   Master of Engineering  
-  Research in Quantum optics, Near-field optics, and Spin mechanics.
+  Research topics: quantum optics, near-field optics, spin mechanics
 
 * **University of Tokyo**, Department of Electrical and Electronic Engineering  
   Apr. 2011 - Mar. 2015  
