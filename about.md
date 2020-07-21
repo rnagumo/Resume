@@ -4,6 +4,8 @@ title: CV
 permalink: /CV/
 ---
 
+---
+
 ## Work experience
 
 * **Panasonic Corporation**  
@@ -17,11 +19,13 @@ permalink: /CV/
 
   * Data analysis and machine learning engineering
 
-    * Time-series analysis by LightGBM.
+    * Time-series analysis in industrial field.
 
-    * Mathematical modeling for predicting battery deterioration by SciPy.
+    * Mathematical modeling to estimate battery deterioration.
 
-    * Development of automatic training ML system running in the cloud.
+    * Development of automatic ML training system in the cloud.
+
+---
 
 ## Education
 
@@ -33,6 +37,8 @@ permalink: /CV/
 * **University of Tokyo**, Department of Electrical and Electronic Engineering  
   Apr. 2011 - Mar. 2015  
   Bachelor of Engineering  
+
+---
 
 ## Publications
 

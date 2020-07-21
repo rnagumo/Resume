@@ -17,9 +17,9 @@ Ryosuke Nagumo, software engineer
 
 * **Bayesian statistics**
 
-  * Deep generative models (ex. VAE, Flow).
+  * Deep generative models (ex. VAEs, Flows).
   
-  * Bayesian structured time series models.
+  * Time series models.
 
 ## Links
 
