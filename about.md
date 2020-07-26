@@ -11,17 +11,17 @@ permalink: /CV/
 * **Panasonic Corporation**  
   Apr. 2017 - now  
 
-  * Machine learning application and research
+  * Data analysis and machine learning application
 
-    * Research of machine learning to estimate the Alzheimer's disease.
+    * Research of machine learning application to estimate the Alzheimer's diseases.
 
-    * Acoustic signal processing and natural language processing for feature engineering.
+    * Feature engineering of acoustic signals, natural language, and time series sensor data.
 
-  * Data analysis and machine learning engineering
+  * Machine learning engineering
 
-    * Time-series analysis in industrial field.
+    * Time-series analysis and development of ML prediction system in the industrial field.
 
-    * Mathematical modeling to estimate battery deterioration.
+    * Mathematical modeling to estimate battery deteriorations.
 
     * Development of automatic ML training system in the cloud.
 

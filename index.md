@@ -5,13 +5,13 @@
 layout: home
 ---
 
-Ryosuke Nagumo, software engineer.
+Ryosuke Nagumo, a software engineer.
 
 ## Interests
 
 * **Machine learning application and engineering**
 
-  * Data science for real-world data.
+  * Data analysis of real-world data.
 
   * Development of ML systems.
 
