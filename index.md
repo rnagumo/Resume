@@ -25,6 +25,6 @@ Ryosuke Nagumo, a software engineer.
 
 * [GitHub](https://github.com/rnagumo)
 
-* [AtCoder](https://atcoder.jp/users/riocloud). Highest rank 1207 (Cyan, 水色)
+* [AtCoder](https://atcoder.jp/users/riocloud). Highest rank 1207, Cyan
 
 * [PAST](https://past.atcoder.jp/) (Practical Algorithm Skill Test) by AtCoder. Advanced Class, 2020.05.23
