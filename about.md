@@ -54,6 +54,10 @@ permalink: /Resume/
 
 * Languages: Japanese (native), English (business, TOEIC 810).
 
-* Programing languages: Python (expert, 5+ years), Julia (intermediate).
+* Programing languages: Python (expert, 5+ years), Julia (intermediate), C++ (beginner).
 
 * Machine learning and data analysis on the practical applications (3+ years): time series data, table data, audio data, natural language, image data.
+
+* Deep learning framework (2+ years): PyTorch.
+
+* Software development: Linux, Microsoft Azure, AWS, Git, Docker.
