@@ -4,9 +4,9 @@ title: Resume
 permalink: /Resume/
 ---
 
----
-
 ## SUMMARY
+
+---
 
 * Experienced software engineer: Python (5+ years).
 
@@ -14,9 +14,9 @@ permalink: /Resume/
 
 * Experience in the development of server systems for products.
 
----
-
 ## WORK EXPERIENCE
+
+---
 
 * **Panasonic Corporation**, Apr. 2017 - present  
 
@@ -36,9 +36,9 @@ permalink: /Resume/
 
     * Proposed possible business plans from the view of technology by surveying over 100 scientific papers.
 
----
-
 ## EDUCATION
+
+---
 
 * **Master of Engineering**, Apr. 2015 - Mar. 2017  
   Department of Electrical Engineering and Information Systems  
@@ -48,9 +48,9 @@ permalink: /Resume/
   Department of Electrical and Electronic Engineering  
   The University of Tokyo, Japan
 
----
-
 ## SKILLS
+
+---
 
 * Languages: Japanese (native), English (business, TOEIC 810).
 
