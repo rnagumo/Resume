@@ -22,11 +22,11 @@ permalink: /Resume/
 
   * Development of machine learning system (Apr. 2019 - present)
 
-    * Developed a machine learning auto-training system for battery state estimation on Azure Functions in Python and C#, which can handle more than 10 million data.
-
     * Developed machine learning prediction system for the industrial time-series data on AWS SageMaker, which achieved 5% accuracy improvement by collaborating with a data scientist.
 
-    * Surveyed recent progress on deep generative models and implemented over 20 models using PyTorch.
+    * Developed a machine learning auto-training system for battery state estimation on Azure Functions in Python and C#, which can handle more than 10 million data.
+
+    * Developed a machine learning inference system for real-time estimation of the battery states running on Docker Compose.
 
   * Data analysis for machine learning application (Apr. 2017 - Mar. 2019)
 
